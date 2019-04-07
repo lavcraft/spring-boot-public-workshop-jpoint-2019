@@ -1,0 +1,4 @@
+demo:
+  dba-emails:
+    - root@mycompany.com
+    - dba@mycompany.com
