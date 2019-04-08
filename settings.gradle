@@ -14,5 +14,4 @@ fileTree('.') {
 }.each {
 	include it
 }
-include 'app0'
 
